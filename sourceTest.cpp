@@ -1,5 +1,4 @@
 #include <iostream.h> //ACCEPT
-//Add new line
 class Product1{
     public:
     std::vector<std::string> parts_;
@@ -15,3 +14,4 @@ class Product1{
         std::cout << "\n\n"; 
     }
 };
+//TEST
